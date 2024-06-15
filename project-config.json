@@ -1,0 +1,9 @@
+{
+  "name": "halloween64",
+  "description": "Halloween-themed displays: Werewolf and Lighting",
+  "toolkit": "basic",
+  "main": "./src/werewolf.bas",
+  "build": "release",
+  "definitions": [],
+  "includes": ["src/includes"]
+}
