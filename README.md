@@ -3,6 +3,8 @@ Simple halloween-themed programs for the Commodore 64.
 
 When I was young my family owned a Commodore 64 and we subscribed to[ _Family Computing Magazine_](https://en.wikipedia.org/wiki/Family_Computing). Each month, when the issue arrived, we'd spend a good deal of time typing the programs from the current issue into our computer. One Halloween I looped two of the programs together and played them in our front window. And here they are.
 
+[See the video on YouTube](https://youtu.be/ZWivZAs-w-M?si=hwWGSXmrCXGKsekn)
+
 ## Setup
 The following steps are for setting up on a Mac. More complete instructions can be found by opening the command palette in VSCode and run the `VS64: Getting Started` command after installing the [vs64](https://github.com/rolandshacks/vs64) extension.
 
